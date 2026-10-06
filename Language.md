@@ -1,3 +1,9 @@
+# Language
+
+The lyrics are written in the **Hebrew alphabet, fully vocalized** using the standard Hebrew diacritical system. They are accompanied by faithful Hebrew and English translations (with inter-word clarifications), rendered as literally as possible while conveying the intended meaning.
+
+The lyrics use the three specific **dead Aramaic dialects** used in Hebrew scriptures—**Old Aramaic** (as found in the books of Ezra and Daniel), **Jewish Babylonian Aramaic** (a later eastern dialect, as found in the Talmud), and **Palestinian Jewish Aramaic** (a western dialect, as found in Onkelos translations and the Book of Zohar). The main dialect is the Babylonian one, mixing the other two frequently, even in the same sentence (some of the scriptures also do that, mix those dialects). The careful selection of vocabulary ensures the **absence of profanity, allusions to sex or immorality.**
+
 ## Pronunciation
 
 ### Vowels
@@ -42,3 +48,11 @@
 
 * Gemination (Dagesh forte): Consonant lengthening fully realized
 * Systematic distinction between guttural and frontal articulations
+
+## Translation
+
+English translations are as literal as possible while still reading as proper, modern English. The only archaic forms retained are those that disambiguate singular vs. plural in the second person, a distinction that modern English lost but that is grammatically significant in the Aramaic originals.
+
+* Subject: plural ye is used when addressing a group; singular you when addressing an individual.
+* Possessive: modern your / yours is normally used, but if a line’s meaning would be unclear without number, thy / thine (singular) vs. your / yours (plural) may be employed.
+  No other artificial archaisms (thee, thou, verb endings, etc.) are introduced unless forced by this disambiguation rule.
