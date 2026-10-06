@@ -1,0 +1,38 @@
+body {
+	background: #111;
+	color: #ddd;
+	font-family: sans-serif;
+}
+
+h1, h2, h3 {
+	color: #fff;
+}
+
+a {
+	color: #8ab4f8;
+}
+
+blockquote {
+	border-left: 2px solid #444;
+	margin-left: 0;
+	padding-left: 1em;
+	color: #bbb;
+}
+
+code {
+	background: #222;
+	color: #ddd;
+}
+
+hr {
+	border: none;
+	border-top: 1px solid #444;
+}
+
+table, th, td {
+	border: 1px solid #444;
+}
+
+th, td {
+	padding: 0.4em 0.8em;
+}
