@@ -1,5 +1,6 @@
 # Uqsa de Uqsa
 
+![Uqsa de Uqsa](/@@/uqsa.jpg){: .portrait}
 The Uqsa de Uqsa (pronounced: /ʔuqṣɑ ðəʔuqṣɑ/) music project creates music featuring vocals in **ancient Aramaic**. The singing style, primarily **rap**, closely approximates original pronunciation. It's energetic, raw, and intense, reminiscent of **Eminem's** powerful delivery.
 
 Uqsa de Uqsa is **entirely self-produced**, it relies solely on invested time, effort, and professional skills; no funds are dedicated to advertising or external services. All aspects of production—from music creation and lyric writing to video production and marketing—are handled solely by the project's creator—a vocal performer, IT engineer, polyglot, composer, and multi-instrumentalist. He is also an expert on Hebrew scriptures and ancient Aramaic, speaking these dialects fluently.

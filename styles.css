@@ -1,7 +1,31 @@
+@font-face {
+	font-family: "Assistant";
+	src: url("/@@/Assistant-Regular.ttf");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Assistant";
+	src: url("/@@/Assistant-Bold.ttf");
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "Open Sans Hebrew Condensed";
+	src: url("/@@/OpenSansHebrewCondensed-Regular.ttf");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Open Sans Hebrew Condensed";
+	src: url("/@@/OpenSansHebrewCondensed-Bold.ttf");
+	font-weight: 700;
+}
+
 body {
 	background: #111;
 	color: #ddd;
-	font-family: sans-serif;
+	font-family: "Assistant", sans-serif;
 }
 
 h1, h2, h3 {
@@ -13,12 +37,15 @@ nav {
 	top: 0;
 	left: 0;
 	width: 100%;
-	background: #000;
-	padding: 1em;
+	display: flex;
 }
 
 nav a {
-	margin-right: 1em;
+	flex: 1;
+	text-align: center;
+	padding: 1em 0;
+	background: #000;
+	text-decoration: none;
 }
 
 .content {
@@ -29,8 +56,15 @@ a {
 	color: #8ab4f8;
 }
 
+.portrait {
+	float: right;
+	width: 200px;
+	margin: 0 0 1em 1em;
+}
+
 .rtl {
 	direction: rtl;
+	font-family: "Open Sans Hebrew Condensed", sans-serif;
 }
 
 blockquote {
