@@ -29,6 +29,10 @@ a {
 	color: #8ab4f8;
 }
 
+.rtl {
+	direction: rtl;
+}
+
 blockquote {
 	border-left: 2px solid #444;
 	margin-left: 0;

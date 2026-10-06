@@ -5,6 +5,7 @@
 The most structurally ambitious and politically direct song in the Uqsa corpus. It opens with a solemn invocation: open your ears, open your eyes, let thoughts gather in your brains. Uqsa announces that he does this work in Aramaic, Hebrew, Arabic, and Amharic — the tongues of the land he calls "the division of the East," a term he pointedly prefers to the colonial label "Middle East," which appears only in scare quotes. The song then unfurls a history in miniature: we are from here, made from this earth; we opened our doors to you in hospitality; you began to brawl and set the curtains on fire. What follows is a vision of the region as a Land of Fire, where everyone dances and sings while the world burns around them, dividing themselves into factions by size, colour, and beauty, demanding more property, more gold, more chariots, and — in a sudden, gleeful plunge into vulgarity — a bigger dick than the other. This section is a direct homage to George Carlin's classic observation about the phallic shape of bombs and the male insecurity that drives war, here transposed into Aramaic and the burning landscape of the Levant. The satire peaks with a parody of the Snow White magic mirror ("Mirror, mirror, you who hang upon the wall — who has a bigger thing than we?"), answered with a shriek of envy and a promise to rain sparks and spears "in the shapes of dicks" upon the rival. The song returns, sober and apocalyptic, to the image of dancing on the Land of Fire — and the final line shifts: the dance is no longer just on the burning land, but "to the destruction of the world." A lament disguised as a dance track, and Uqsa's most personal statement about the land he claims as his own.
 
 ## אַרְעָא דְנוּרָא
+{: .rtl}
 
 ⚠️ לא לִינוֹקַיָּא
 
@@ -12,21 +13,25 @@ The most structurally ambitious and politically direct song in the Uqsa corpus. 
 > תְּפַקְּחוּ לְעֵינִין  
 > הַבוּ לְרַעְיוֹנִין  
 > דְּלִתְכַּנְּשׁוּן בְּמוֹחִין
+{: .rtl}
 
 > אֶקְרָא לְכוֹן אָתְוָן  
 > אָתְוָן מִגּוֹ מִלִּין  
 > מִלִּין מִגּוֹ סִפְרִין  
 > דְּתִנְדְּעוּן לְנִימוֹסִין
+{: .rtl}
 
 > אֲנַן עָבְדִין לְדָא  
 > בַּאֲרָמִיָּא  
 > וְאַף בְּעִבְרִיָּא וּבְיַד עֲרָבִיָּא  
 > וּדְמִן חֲבַשׁ אֲמַרִינִיָּא
+{: .rtl}
 
 > וְרָקְדִין וְזָעִין  
 > וּמְזַמְּרִין לְזִמְרָא  
 > בִּידִין וּבְרַגְלִין  
 > גַּבֵּי אַרְעָא דְנוּרָא
+{: .rtl}
 
  —
 
@@ -34,21 +39,25 @@ The most structurally ambitious and politically direct song in the Uqsa corpus. 
 > מִן פַּלְגוּתָא דְמַדְנְחָא  
 > אִתְעֲבִידְנַן מִן אַרְעָא  
 > דְּאַתּוּן קָיְמִין גַּבַּהּ
+{: .rtl}
 
 > וַהֲוֵינַן הָכָא מִן עָלְמִין  
 > מִתְעַסְּקִין בְּחַיִּין  
 > בְּמֵיכְלִין בַּעֲנִיָּנִין  
 > וּבְלִמְהֱוֵי בְּחַדְוָתִין
+{: .rtl}
 
 > וּפְתַחְנַן לְתַרְעִין דְּבָתִּין  
 > דְּתֵעֲלוּן וּתִסְעֲדוּן  
 > לְמִמְנַח לְרַגְלֵיכוֹן  
 > וּבְחַדְוָתָא תִּתְשַׁתְּפוּן
+{: .rtl}
 
 > בְּרַם אַתּוּן שָׁרִיתוּן  
 > לְמִמְחֵי וּלְמִבְטַשׁ בְּאַפֵּיכוֹן  
 > וּבְאַכְסַדְרָא רַבְּתָא  
 > לְאוֹקָדָא לְפַרְגּוֹדָא בְּנוּרָא
+{: .rtl}
 
  —
  
@@ -56,21 +65,25 @@ The most structurally ambitious and politically direct song in the Uqsa corpus. 
 > מִתְאוֹקְדָא לְכוּלְּהוּ עָלְמָא  
 > וְכָל רָמְתָא וְכֻלְּהוּ טוּרִין  
 > מִתְאוֹקְדִין בְּנוּרָא רַבְּתָא
+{: .rtl}
 
 > וּלְכוּלְּהוּ מְפַלְּגִין  
 > לִזְעִירִין וְלָרָמִין  
 > וּלְחִוָּרִיּוֹ וְלָאֻכָּמִין  
 > וּלְשַׁפִּירִים וּמְחָרְרִין
+{: .rtl}
 
 > וּמַנְפִּיקִין לְבָעוּתִין  
 > לְמִרְבֵּי בְנִכְסִין  
 > וּבְכַסְפָּא וּבְדַהֲבָא  
 > וּבְבֵיתָא רַבָּא וּבְמַרְכַּבְתָּא
+{: .rtl}
 
 > לְמִצְטַבְּעָא בְּפַרְהֶסְיָא  
 > וּלְמֶעְבַּד לְהוֹן שְׁמָא  
 > וּלְאַחֲזוֹיֵי לְכָל עָלְמָא  
 > פַּרְמַשְׁתָּקָא יַתִּיר מֵאָחְרָא
+{: .rtl}
 
  —
 
@@ -78,16 +91,19 @@ The most structurally ambitious and politically direct song in the Uqsa corpus. 
 > דְּאַנְתְּ תַּלְיָא גַּבֵּי כּוּתְלָא  
 > חַוּוֹנִי מִנָּךְ בְּמַטּוּתָא  
 > מָאן אִית לֵהּ יַתִּיר מִנַּן עִנְיָנָא?
+{: .rtl}
 
 > הָא! הָא אִנּוּן! אִית לְהוֹן!  
 > נֵיזֵיל, בְּנוּרָא נוֹקְדִנּוּן!  
 > וְנִמְטַר עֲלֵיהוֹן נִיצוֹצִין וְרוֹמְחִין  
 > בְּדִיּוֹקְנִין דְּפַרְמַשְׁתְּקִין!
+{: .rtl}
 
 > יָתְבִינַן גַּבֵּי עֲרֵמְתָא בְּלִיָּא  
 > בְּנִיחוֹחִין דְּרֵיחָא בִּישָׁא  
 > וּמְחַפִּין לַהּ בְּעָאן וּבְקָשִׁין  
 > לְאוֹקָדָא לְכָלְּהוּ יְקוּמִין 
+{: .rtl}
 
  —
 
@@ -95,13 +111,16 @@ The most structurally ambitious and politically direct song in the Uqsa corpus. 
 > וּמְזַמְּרִין לְזִמְרָא  
 > בִּידִין וּבְרַגְלִין  
 > גַּבֵּי אַרְעָא דְנוּרָא
+{: .rtl}
 
 > וְרָקְדִין וְזָעִין  
 > וּמְזַמְּרִין לְזִמְרָא  
 > בִּידִין וּבְרַגְלִין  
 > לְחוּרְבָּנָא דְעָלְמָא
+{: .rtl}
 
 ### ארץ האש
+{: .rtl}
 
 ⚠️ לא לילדים קטנים
 
@@ -109,21 +128,25 @@ The most structurally ambitious and politically direct song in the Uqsa corpus. 
 > ופקחו את העיניים  
 > ותנו למחשבות  
 > שתכנסנה במוחות
+{: .rtl}
 
 > אקרא לכם אותיות  
 > אותיות מתוך מילים  
 > מילים מתוך ספרים  
 > למען תדעו את הנימוסים _(~מנהגים, התנהגות)_
+{: .rtl}
 
 > אנחנו עושים זאת  
 > בארמית  
 > ואף בעברית וערבית  
 > ומן חבש _(~אתיופיה)_ אמהרית
+{: .rtl}
 
 > ורוקדים וזזים  
 > ומזמרים את השיר  
 > בידיים וברגליים  
 > על פני ארץ האש
+{: .rtl}
 
  —
 
@@ -131,21 +154,25 @@ The most structurally ambitious and politically direct song in the Uqsa corpus. 
 > מן חלוקת המזרח _("מזרח התיכון")_  
 > נעשינו מן האדמה  
 > שאתם עומדים עליה
+{: .rtl}
 
 > והיינו כאן מעולמים  
 > מתעסקים בחיים  
 > במאכלים, בעניינים,  
 > ובהיות בשמחות
+{: .rtl}
 
 > ופתחנו את דלתות הבתים  
 > שתכנסו ותסעדו  
 > למנוחה לרגליכם  
 > ובשמחה תשתתפו
+{: .rtl}
 
 > אבל אתם התחלתם  
 > להכות ולבעוט בפניכם  
 > ובחדר הגדול  
 > להצית את הוילון באש
+{: .rtl}
 
  —
 
@@ -153,37 +180,44 @@ The most structurally ambitious and politically direct song in the Uqsa corpus. 
 > נדלקת בעולם כולו  
 > וכל גבעה וכל ההרים  
 > נשרפים באש גדולה
+{: .rtl}
 
 > ואת כולם מחלקים  
 > לקטנים ולגדולים  
 > וללבנים ולשחורים  
 > וליפים ולמכוערים
+{: .rtl}
 
 > ומוציאים בקשות  
 > להרבות בנכסים  
 > בכסף ובזהב  
 > ובבית גדול ובמרכבה
+{: .rtl}
 
 > להתצבע _(~להתצייר)_ בפומבי  
 > ולעשות להם שם  
 > ולהראות לכל העולם  
 > פרמשתק _(~איבר מין)_ גדול משל האחר
+{: .rtl}
 
  —
 > מראה, מראה    
 > שאת תלויה על גבי הקיר  
 > הראי לי בבקשה  
 > למי יש עניין גדול משלנו?
+{: .rtl}
 
 > הנה! הנה הם! יש להם!  
 > בואו, נשרוף אותם באש!  
 > ונוריד עליהם ניצוצות ורמחים  
 > בצורות של פרמשתקים _(~איברי מין)_!  
+{: .rtl}
 
 > יושבים אנו על ערימה נרקבת  
 > בניחוחות של ריח רע  
 > ומכסים אותה בעצים ובקש  
 > לשרוף את כל היקומים
+{: .rtl}
 
 ---
 
@@ -191,11 +225,13 @@ The most structurally ambitious and politically direct song in the Uqsa corpus. 
 > ומזמרים את השיר —  
 > בידיים וברגליים  
 > על פני ארץ האש
+{: .rtl}
 
 > ורוקדים וזעים  
 > ומזמרים את השיר —  
 > בידיים וברגליים  
 > לחורבן העולם  
+{: .rtl}
 
 ### Land of Fire
 

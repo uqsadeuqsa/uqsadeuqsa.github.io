@@ -3,89 +3,107 @@
 A joyful, swaggering manifesto for the entire Uqsa d'Uqsa project, delivered entirely in the language itself. The song opens with a blessing of peace and a cheeky instruction: if you don't understand, go ask a friend for a translation. What follows is Uqsa's boast that his words are sharp, precise, and fly in all directions, while yours are crooked and wounded. He tells the listener to enter the study, walk to the books of splendour, and open the Zohar to its very first section — then pauses mid‑flow to count aloud, trying to remember the exact page: one… two… three… four! — the place where Rabban Hiyya's vision of secrets is revealed in the introduction. A sudden, unfiltered glimpse of Uqsa thinking out loud, right in the middle of his own song. He points to Nebuchadnezzar's golden statue and Daniel's defiance, then lands on a startling philosophical claim: this whole world was created solely for him — and yours was created solely for you. All worlds, in the end, are one world, and anyone who says this doesn't make sense is already trembling at its truth. A song that is at once a linguistic tour de force, a self‑portrait, a Zoharic Easter egg, and a direct challenge to anyone who thinks they can do what Uqsa does.
 
 ## בארמיא
+{: .rtl}
 
 > עליכון דלהוון אלפי רבוא דשלמא  
 > אתינא לנשפר ולמסגי לחדוותא  
 > ואי ליתך סבר להני מילין דזנמרא הדא  
 > זיל שאיל לחברך דלימא לך תרגומא
+{: .rtl}
 
 > מאי הדא לישן דלישנך ממללא?!  
 > נפקת מגו פומך, עאלת בגו דיילי אדנא  
 > מנח אשכחת היא בגו בגו פלגותא דמוחא  
 > ומלאת לבא דילי בחדוותא רבתא סגיאתא!
+{: .rtl}
 
 > כל הני מילין - שפירין לחדא  
 > ברם, השתא השכחת לי אי שאילא  
 > מאי כהלנא למעבד עם כולי האי?  
 > אימא לי אי מילה דייחכמנני בחיי!
+{: .rtl}
 
 > בעי לך למיעל לגו האי אכסדרא  
 > ולמיזל לוות הני ספרין דאית להון זיוא  
 > ולמפתח חד מנהן בחולקה דקדמאה  
 > בעילא ... חד, תרין, תלת … רביעאה!
+{: .rtl}
 
 > ולמחזי לרבן חייא, דבעא מן שמיא  
 > ואחזיאו ליה רזין בחזווא דחלמא  
 > ולרבן שמעון דמשתדל באורייתא  
 > עם כולהו צדיקייא במתיבתא עילאה
+{: .rtl}
 
 > וְאַף אנְבוּכַדְנֶצַּר דַּהֲוָה מַלְכָּא בִּישָׁא
 > ובעא מן כלהום דיסגדון לההוא צלמא  
 > וכלהום נפלו וסגידו בר דניאל חכימא  
 > וחברוהי, חנניה מישאל ועזריה
+{: .rtl}
 
 ---
 > ואי תימא השתא דאף אנת כהל בהאי  
 > אשחק בך, הי הי, לית אנת כדאי!  
 > דהא תיבין דילך נפקין חלידין ועקימין  
 > ודידי - מחדדין ולחדא לחדא דייקין, אין?
+{: .rtl}
 
 > ודילך אזלין בארח דמישרין  
 > ודידי - פרחין וטאסין לכל סטרין  
 > ואף אי תהווי מזמר כגוונא דילי  
 > לא תהווי ממש, ממש, ממש כוותי
+{: .rtl}
 
 > בגין דעלמא דא התברא בלחוד בגיני  
 > ואף אנת בגרמך אתבריתו בדידך  
 > וכל אנשים וברי דבר דבר אנשין  
 > משטטין וטאסין בכלהו עלמין
+{: .rtl}
 
 > ומן יציב דכלהו עלמין אנון חד עלמא  
 > למווהי בה אינון ואתון ואף אנא  
 > ודלימא דכל דא ליתה משמע  
 > אמאי אינון כלהון זעין בדא?
+{: .rtl}
 
 ### בארמית
+{: .rtl}
 
 > עליכם שיהיו אלפי רבבות של שלום,  
 > באנו להשפיע ולהגדיל את השמחה.  
 > ואם אינך מבין את מילות הזמר הזה –  
 > לך שאל את חברך שיאמר לך תרגום.
+{: .rtl}
 
 > מה זאת הלשון שלשונך מדברת?!  
 > מילים יוצאות מתוך פיך, נכנסות בתוך אוזני,  
 > מנוחה מוצאת היא בתוך חילוק _(~אמצע)_ המוח,  
 > וממלאת את הלב שלי בשמחה רבה וגדולה!
+{: .rtl}
 
 > כל הדברים האלה – יפים מאוד.  
 > אבל עכשיו נמצאת לי _(=יש לי)_ שאלה:  
 > מה יכול אני לעשות עם כל זה?  
 > אמור לי דבר שיחכים אותי בחיי!
+{: .rtl}
 
 > ראוי לך להיכנס לתוך הפרוזדור הזה,  
 > וללכת אל הספרים האלה שיש להם זיו,  
 > ולפתוח אחד מהם בחלק הראשון,  
 > בעמוד... אחת, שתיים, שלוש... רביעי!
+{: .rtl}
 
 > ולראות את רבן חייא שביקש מן השמיים  
 > והתגלו לו רזים _(~סודות)_ בחזון החלום,  
 > ואת רבן שמעון שמתעסק בתורה  
 > עם כל הצדיקים בישיבה העליונה.
+{: .rtl}
 
 > וגם על נבוכדנצר שהיה מלך רשע,  
 > שדרש מכולם להשתחוות לפסל ההוא –  
 > וכולם נפלו והשתחוו, חוץ מדניאל החכם  
 > וחבריו: חנניה, מישאל ועזריה.
+{: .rtl}
 
 ---
 
@@ -93,21 +111,25 @@ A joyful, swaggering manifesto for the entire Uqsa d'Uqsa project, delivered ent
 > אצחק עליך: הי הי, אין אתה כדאי!  
 > שהרי המילים שלך יוצאות פגומות ועקומות,  
 > ושלי – מחודדות ומאוד מאוד מדויקות, כן?
+{: .rtl}
 
 > ושלך הולכות בדרך מישרים,  
 > ושלי – פורחות וטסות לכל הצדדים.  
 > ואף אם תזמר באופן שלי –  
 > לא תהיה ממש, ממש, ממש כמוני.
+{: .rtl}
 
 > מפני שהעולם הזה נברא במיוחד בשבילי,  
 > ואף אתה בעצמך נבראת בשביל עצמך,  
 > וכל בני האדם ובני בני האדם  
 > משוטטים וטסים בכל העולמות.
+{: .rtl}
 
 > ויציב _[הדבר]_ שכל העולמות – עולם אחד הם.  
 > להיות בתוכו – הם, אתם, ואף אני.  
 > ומי שיאמר שכל זה אין לו משמעות –  
 > למה כולם רועדים מזה?
+{: .rtl}
 
 ### In Aramaic
 
